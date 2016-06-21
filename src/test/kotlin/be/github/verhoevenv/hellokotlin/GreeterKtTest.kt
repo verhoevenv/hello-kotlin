@@ -4,7 +4,6 @@ import org.jetbrains.spek.api.Spek
 
 import org.junit.Assert.*
 
-
 class GreeterKtTest : Spek({
     describe("a greeter") {
 
