@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+lib/
+
+# IntelliJ
+.idea/
+
+# Mac OS
+.DS_Store
